@@ -1,11 +1,7 @@
 Particle Fire Simulator
 -----------------------
-Program description:
-Particle Fire Simulator is a simple program which produces an animated continuous explosion from color-changing particles that have a box blur effect added.
-It uses C++ and the SDL Graphics Library.
-The program is built along the tutorial of the Cave of Programming C++ Beginner Course.
-
-
+Produces an animated continuous explosion from color-changing particles that have a box blur effect. Written in C++ with SDL Graphics Library. I wrote this program when I was following the [Cave of Programming C++ Beginner Course.
+](https://caveofprogramming.com/p/c-beginners)
 
 
 
