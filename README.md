@@ -11,7 +11,8 @@ Creates a window using the SDL library and modifies individual pixels on the scr
 
 
 
-
+**Video Showcase**
+-------------------
 https://github.com/user-attachments/assets/8fed4ca9-0508-4b3e-8d9a-e196c3edd86e
 
 
@@ -25,4 +26,8 @@ https://github.com/user-attachments/assets/57fdad2d-72c1-4602-968e-0623ba3b88cb
 
 
 https://github.com/user-attachments/assets/f308162a-617b-4b50-a118-31658c033806
+
+
+https://github.com/user-attachments/assets/4341a64f-a1a2-4a90-982c-2558d55710ee
+
 
