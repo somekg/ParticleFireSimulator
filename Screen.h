@@ -7,6 +7,7 @@ namespace acg
 	public:
 		const static int SCREEN_WIDTH = 800;
 		const static int SCREEN_HEIGHT = 600;
+		const static int SCREEN_PRODUCT = SCREEN_WIDTH * SCREEN_HEIGHT;
 	private:
 		SDL_Window* m_window;
 		SDL_Renderer* m_renderer;
