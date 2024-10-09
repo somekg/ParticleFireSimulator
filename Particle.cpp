@@ -22,8 +22,9 @@ namespace acg {
 		//Try setting a high rotation ~0.1 and a constant speed!
 		const double rotation = 0.001;
 
+		//Using m_var around this expressions can get cool stuff, and adding or changing to different trigonometric functions too
 		m_direction += interval * rotation;
-		
+
 		double xspeed = m_speed * cos(m_direction);
 		double yspeed = m_speed * sin(m_direction);
 
@@ -36,5 +37,8 @@ namespace acg {
 		if (rand() < RAND_MAX/100) {
 			init();
 		}
+		//Here you can modify m_var however you want, you can also make an if statement and make it reset after getting to high
+		//That way some patterns repeat
+		//m_var = m_var + 0.1;
 	}
 };
