@@ -5,8 +5,9 @@ Produces an animated continuous explosion from color-changing particles that hav
 Creates a window using the SDL library and modifies individual pixels on the screen.
 
 
-
-
+How to run
+----------
+The easy way to run it is downloading Visual Studio, and selecting the clone repository option and browsing it in GitHub, if you want to do it manually, although arguably a little more complex you'll have to download GCC/clang and do it on the command terminal, I don't have much knowledge on that so search a tutorial for it. 
 
 
 
